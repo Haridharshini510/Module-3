@@ -33,7 +33,7 @@ print("String after removing the character:", result)
 ```
 
 ## Output
-![Uploading image.png…]()
+<img width="591" height="278" alt="image" src="https://github.com/user-attachments/assets/09983d6d-8479-4bbf-b893-8cada5f0e8d5" />
 
 ## Result
 Thus, the program was executed successfully and the character at the specified index was removed from the string.
