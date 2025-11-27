@@ -25,6 +25,7 @@ else:
 ```
 
 ## Output
+<img width="538" height="247" alt="image" src="https://github.com/user-attachments/assets/7d6d1e88-8f6a-4658-bb30-fc9d091a5ff1" />
 
 ## Result
 Thus, the program was executed successfully and the given string was checked for palindrome condition.
